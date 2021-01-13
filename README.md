@@ -9,12 +9,14 @@ Our process in this code review was to look at each block of code from top to bo
 
 
 
-Remaining Changes to be Made
+
+### **Remaining Changes to be Made**
+
 1. Better alt text is required
 
 
 
-Changes Made
+### **Changes Made**
 
 1. Alt tags were added to all images except for the main image as it is a background image.
 
